@@ -38,12 +38,6 @@
 
 ### Installation and Deployment
 
-* Using docker-compose
-
-``` sh
-        $ docker-compose up
-```
-
 * Using python
 
 ``` sh
@@ -73,4 +67,3 @@
 
 ------------------------------------------
 
-This repository / project was a part of the django audit course in college.
